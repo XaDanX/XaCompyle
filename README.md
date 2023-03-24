@@ -1,5 +1,5 @@
 # XaCompyle
-python obfuscator :)
+simple python packer
 
 TODO:
 -Multi line comments/string
